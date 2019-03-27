@@ -93,5 +93,3 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - deprecated==1.2.5
-prefix: /home/gcomoret/anaconda3/envs/pinned_20190319
-

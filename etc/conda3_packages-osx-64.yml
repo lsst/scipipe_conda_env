@@ -80,5 +80,3 @@ dependencies:
   - zlib=1.2.11=h1de35cc_3
   - pip:
     - deprecated==1.2.5
-prefix: /Users/GComoretto/anaconda3/envs/pinned_20190319
-
