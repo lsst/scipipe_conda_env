@@ -1,28 +1,59 @@
-# This env file should be kept in sync with conda3_bleed-linux-64.txt with the
-# exception of the nomkl being present on linux and NOT on osx.
-# nomkl is required on linux.  See DM-8146
-# future + pyyaml are lsst-build deps. See DM-15025
-name: bleed
+name: default
 channels:
+  - conda-forge
   - defaults
 dependencies:
-  - astropy
+  # build
+  - make
+  - scons
+  - git-lfs
+  # link
+  - apr
+  - boost
   - bottleneck
+  - cfitsio
+  - deprecated
+  - doxygen
+  - esutil
+  - fftw
+  - galsim
+  - gsl
+  - libaprutil
+  - lmfit
+  - minuit2
+  - mpi4py
+  - mpich
+  - ndarray
+  - numexpr
+  - starlink-ast
+  - treecorr
+  - wcslib
+  # python
+  - astropy
   - cffi
   - cython
+  - flake8
   - future
   - h5py
+  - healpy
   - matplotlib
-  - numexpr
   - numpy
   - pandas
+  - pep8-naming
   - pip
   - pytables
-  - python
+  - pytest
+  - pytest-cov
+  - pytest-flake8
+  - pytest-forked
+  - pytest-xdist
   - pyyaml
   - requests
   - scikit-learn
   - scipy
   - sqlalchemy
+  - ws4py
+  # Pins
+  - pybind11 < 2.3
   - pip:
-    - deprecated
+    - git+https://github.com/fabricecoulon/pytest_session2file@fix_for_python3
