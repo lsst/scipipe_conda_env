@@ -14,11 +14,13 @@ dependencies:
   - cfitsio
   - deprecated
   - doxygen
-  - esutil
+  - eigen
   - fftw
   - galsim
   - gsl
   - libaprutil
+  - liblapacke # For psfex
+  - log4cxx
   - lmfit
   - minuit2
   - mpi4py
@@ -32,6 +34,7 @@ dependencies:
   - astropy
   - cffi
   - cython
+  # - esutil # FIXME: When esutil is updated
   - flake8
   - future
   - h5py
