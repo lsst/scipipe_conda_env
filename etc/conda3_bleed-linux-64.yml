@@ -19,6 +19,7 @@ dependencies:
   - galsim
   - gsl
   - libaprutil
+  - lapack # For psfex
   - liblapacke # For psfex
   - log4cxx
   - lmfit
