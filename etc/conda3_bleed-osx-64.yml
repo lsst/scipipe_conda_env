@@ -29,7 +29,7 @@ dependencies:
   - ndarray
   - numexpr
   - starlink-ast
-  - treecorr
+  - treecorr < 4
   - wcslib
   # python
   - astropy
