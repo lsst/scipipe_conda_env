@@ -18,8 +18,10 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - pyarrow
   - pytables
+  - pytest
+  - pytest-cov
+  - pytest-xdist
   - python
   - pyyaml
   - requests
