@@ -19,6 +19,9 @@ dependencies:
   - pandas
   - pip
   - pytables
+  - pytest
+  - pytest-cov
+  - pytest-xdist
   - python
   - pyyaml
   - requests
