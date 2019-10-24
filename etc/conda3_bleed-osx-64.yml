@@ -17,7 +17,6 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - pyarrow
   - pytables
   - python
   - pyyaml
