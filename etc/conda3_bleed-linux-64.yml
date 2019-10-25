@@ -17,6 +17,7 @@ dependencies:
   - numexpr
   - numpy
   - pandas
+  - pyarrow
   - pip
   - pytables
   - pytest
