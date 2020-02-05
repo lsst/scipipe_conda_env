@@ -7,12 +7,14 @@ channels:
   - defaults
 dependencies:
   - astropy
+  - boto3
   - bottleneck
   - cffi
   - cython
   - future
   - h5py
   - matplotlib
+  - moto
   - numexpr
   - numpy
   - pandas
@@ -30,3 +32,4 @@ dependencies:
   - sqlalchemy
   - pip:
     - deprecated
+    - pytest-subtests
