@@ -11,6 +11,7 @@ dependencies:
   - bottleneck
   - cffi
   - cython
+  - deprecated
   - future
   - h5py
   - matplotlib
@@ -32,5 +33,4 @@ dependencies:
   - scipy
   - sqlalchemy
   - pip:
-    - deprecated
     - pytest-subtests
