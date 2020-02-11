@@ -1,4 +1,4 @@
-name: pinned_20200205
+name: pinned_20200211
 channels:
   - defaults
 dependencies:
@@ -24,14 +24,14 @@ dependencies:
   - c-ares=1.15.0=h1de35cc_1001
   - ca-certificates=2020.1.1=0
   - certifi=2019.11.28=py37_0
-  - cffi=1.13.2=py37hb5b8e2f_0
+  - cffi=1.14.0=py37hb5b8e2f_0
   - chardet=3.0.4=py37_1003
   - click=7.0=py37_0
   - cookies=2.2.1=py37_1
   - coverage=5.0=py37h1de35cc_0
   - cryptography=2.8=py37ha12b0ac_0
   - cycler=0.10.0=py37_0
-  - cython=0.29.14=py37h0a44026_0
+  - cython=0.29.15=py37h0a44026_0
   - deprecated=1.2.6=py_0
   - dicttoxml=1.7.4=py37_1
   - docker-py=4.0.2=py37_0
@@ -53,10 +53,8 @@ dependencies:
   - icu=58.2=h4b95b61_1
   - idna=2.8=py37_0
   - importlib_metadata=1.5.0=py37_0
-  - inflect=4.1.0=py37_0
   - intel-openmp=2020.0=166
   - itsdangerous=1.1.0=py37_0
-  - jaraco.itertools=5.0.0=py_0
   - jinja2=2.11.1=py_0
   - jmespath=0.9.4=py_0
   - joblib=0.14.1=py_0
@@ -78,20 +76,20 @@ dependencies:
   - lzo=2.10=h362108e_2
   - markupsafe=1.1.1=py37h1de35cc_0
   - matplotlib=3.0.3=py37h54f8f79_0
-  - mkl=2020.0=166
+  - mkl=2019.4=233
   - mkl-service=2.3.0=py37hfbe908c_0
   - mkl_fft=1.0.15=py37h5e564d8_0
   - mkl_random=1.1.0=py37ha771720_0
-  - mock=3.0.5=py37_0
+  - mock=4.0.1=py_0
   - more-itertools=8.2.0=py_0
   - moto=1.3.7=py_0
   - ncurses=6.1=h0a44026_1
   - numexpr=2.7.1=py37hce01a72_0
   - numpy=1.18.1=py37h7241aed_0
   - numpy-base=1.18.1=py37h6575580_1
-  - openssl=1.1.1d=h1de35cc_3
+  - openssl=1.1.1d=h1de35cc_4
   - packaging=20.1=py_0
-  - pandas=1.0.0=py37h6c726b0_0
+  - pandas=1.0.1=py37h6c726b0_0
   - pip=20.0.2=py37_1
   - pluggy=0.13.1=py37_0
   - psutil=5.6.7=py37h1de35cc_0
@@ -126,7 +124,7 @@ dependencies:
   - s3transfer=0.3.0=py37_0
   - scikit-learn=0.22.1=py37h27c97d8_0
   - scipy=1.4.1=py37h9fa6033_0
-  - setuptools=45.1.0=py37_0
+  - setuptools=45.2.0=py37_0
   - six=1.14.0=py37_0
   - snappy=1.1.7=he62c110_3
   - sortedcontainers=2.1.0=py37_0
@@ -134,18 +132,18 @@ dependencies:
   - sqlite=3.31.1=ha441bb4_0
   - thrift-cpp=0.11.0=hd79cdb6_3
   - tk=8.6.8=ha441bb4_0
-  - tornado=6.0.3=py37h1de35cc_0
+  - tornado=6.0.3=py37h1de35cc_3
   - uriparser=0.9.3=h0a44026_1
   - urllib3=1.25.8=py37_0
   - wcwidth=0.1.8=py_0
   - websocket-client=0.56.0=py37_0
-  - werkzeug=0.16.1=py_0
+  - werkzeug=1.0.0=py_0
   - wheel=0.34.2=py37_0
   - wrapt=1.11.2=py37h1de35cc_0
   - xmltodict=0.12.0=py_0
   - xz=5.2.4=h1de35cc_4
   - yaml=0.1.7=hc338f04_2
-  - zipp=2.1.0=py_0
+  - zipp=2.2.0=py_0
   - zlib=1.2.11=h1de35cc_3
   - zstd=1.3.7=h5bba6e5_0
   - pip:
