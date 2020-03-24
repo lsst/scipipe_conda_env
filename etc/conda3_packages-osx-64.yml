@@ -102,7 +102,7 @@ dependencies:
   - pyparsing=2.4.6=py_0
   - pysocks=1.7.1=py37_0
   - pytables=3.6.1=py37h5bccee9_0
-  - pytest=5.4.1=py37_0
+  - pytest=5.3.5=py37_0
   - pytest-arraydiff=0.3=py37h39e3cac_0
   - pytest-astropy=0.8.0=py_0
   - pytest-astropy-header=0.1.2=py_0
