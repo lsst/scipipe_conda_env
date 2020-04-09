@@ -10,6 +10,7 @@ dependencies:
   - boto3
   - bottleneck
   - cffi
+  - click
   - cython
   - deprecated
   - future
