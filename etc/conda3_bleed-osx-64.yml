@@ -29,6 +29,7 @@ dependencies:
   - python
   - pyyaml
   - requests
+  - scikit-image
   - scikit-learn
   - scipy
   - sqlalchemy
