@@ -6,9 +6,21 @@ channels:
   - defaults
 dependencies:
   # build dependencies
+  - compilers
+  - cmake
+  - doxygen
+  - flake8
+  - git-lfs
+  - make
+  - pep8-naming
   - pytest
   - pytest-cov
+  - pytest-doctestplus
+  - pytest-flake8
+  - pytest-runner
+  - pytest-session2file
   - pytest-xdist
+  - scons
   # host dependencies
   - astropy
   - boto3
@@ -35,5 +47,6 @@ dependencies:
   - scipy
   - sqlalchemy
   # run dependencies
+  # pip dependencies
   - pip:
     - pytest-subtests
