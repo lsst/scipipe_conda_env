@@ -1,11 +1,15 @@
-# This env file should be kept in sync with conda3_bleed-osx-64.txt with the
-# exception of the nomkl being present on linux and NOT on osx.
-# nomkl is required on linux.  See DM-8146
+# This env file should be kept in sync with conda3_bleed-osx-64.txt
 # future + pyyaml are lsst-build deps. See DM-15025
 name: bleed
 channels:
+  - conda-forge
   - defaults
 dependencies:
+  # build dependencies
+  - pytest
+  - pytest-cov
+  - pytest-xdist
+  # host dependencies
   - astropy
   - boto3
   - bottleneck
@@ -17,21 +21,18 @@ dependencies:
   - h5py
   - matplotlib
   - moto
-  - nomkl
   - numexpr
   - numpy
   - pandas
-  - pyarrow
   - pip
+  - pyarrow
   - pytables
-  - pytest
-  - pytest-cov
-  - pytest-xdist
   - python
   - pyyaml
   - requests
   - scikit-learn
   - scipy
   - sqlalchemy
+  # run dependencies
   - pip:
     - pytest-subtests
