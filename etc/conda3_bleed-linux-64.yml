@@ -22,22 +22,42 @@ dependencies:
   - pytest-xdist
   - scons
   # host dependencies
+  - apr
+  - autograd
   - astropy
+  - boost =1.70
   - boto3
   - bottleneck
   - cffi
+  - cfitsio
   - click
   - cython
   - deprecated
+  - eigen
+  - esutil
   - future
+  - galsim
+  - gsl
   - h5py
+  - healpy
+  - libaprutil
+  - lapack
+  - log4cxx
+  - lmfit
+  - lsstdesc.coord
   - matplotlib
+  - minuit2
   - moto
+  - mpich
+  - mpi4py
+  - ndarray
   - numexpr
   - numpy
   - pandas
   - pip
   - pyarrow
+  - pybind11 <2.3
+  - pyqt <5.12 # For matplotlib on linux. See https://github.com/conda-forge/pyqt-feedstock/issues/77
   - pytables
   - python
   - pyyaml
@@ -45,8 +65,14 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
+  - starlink-ast
   - sqlalchemy
+  - treecorr <4
+  - wcslib
+  - ws4py
+  - xpa
   # run dependencies
   # pip dependencies
   - pip:
+    - peigen
     - pytest-subtests
