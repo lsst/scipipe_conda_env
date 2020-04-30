@@ -80,9 +80,11 @@ dependencies:
   - freetype=2.10.1=h8da9a1a_0
   - future=0.18.2=py37hc8dfbb8_1
   - galsim=2.2.3=py37hc0fbbca_0
+  - gettext=0.19.8.1=h46ab8bc_1002
   - gflags=2.2.2=h4a8c4bd_1002
   - gfortran_impl_osx-64=7.3.0=hf4212f2_2
   - gfortran_osx-64=7.3.0=h22b1bf0_10
+  - git=2.26.2=pl526hcc376a2_0
   - git-lfs=2.10.0=0
   - glog=0.4.0=h700f914_3
   - gmp=6.2.0=h4a8c4bd_2
@@ -164,7 +166,9 @@ dependencies:
   - packaging=20.1=py_0
   - pandas=1.0.3=py37h94625e5_1
   - parquet-cpp=1.5.1=2
+  - pcre=8.44=h4a8c4bd_0
   - pep8-naming=0.10.0=pyh9f0ad1d_0
+  - perl=5.26.2=haec8ef5_1006
   - pgplot=5.2.2=h971d54c_1006
   - pillow=7.1.1=py37hfd78ece_0
   - pip=20.0.2=py_2

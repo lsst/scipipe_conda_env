@@ -84,6 +84,7 @@ dependencies:
   - gflags=2.2.2=he1b5a44_1002
   - gfortran_impl_linux-64=7.3.0=hdf63c60_5
   - gfortran_linux-64=7.3.0=h553295d_18
+  - git=2.26.2=pl526h5e3e691_0
   - git-lfs=2.10.0=0
   - glib=2.64.2=h6f030ca_0
   - glog=0.4.0=h49b9bf7_3
@@ -172,6 +173,7 @@ dependencies:
   - parquet-cpp=1.5.1=2
   - pcre=8.44=he1b5a44_0
   - pep8-naming=0.10.0=pyh9f0ad1d_0
+  - perl=5.26.2=h516909a_1006
   - pgplot=5.2.2=hac706ba_1006
   - pillow=7.1.1=py37h718be6c_0
   - pip=20.0.2=py_2

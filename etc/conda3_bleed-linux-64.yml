@@ -10,6 +10,7 @@ dependencies:
   - cmake
   - doxygen
   - flake8
+  - git
   - git-lfs
   - make
   - pep8-naming
