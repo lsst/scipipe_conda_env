@@ -35,7 +35,7 @@ dependencies:
   - cctools=927.0.2=h5ba7a2e_4
   - certifi=2020.4.5.1=py37hc8dfbb8_0
   - cffi=1.14.0=py37h356ff06_0
-  - cfitsio=3.470=h35c4aa5_3
+  - cfitsio=3.470=hddc9c06_5
   - cfn-lint=0.24.4=py37_0
   - chardet=3.0.4=py37hc8dfbb8_1006
   - clang=9.0.1=default_hf57f61e_0
