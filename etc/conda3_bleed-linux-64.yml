@@ -17,6 +17,7 @@ dependencies:
   - make
   - openjdk
   - pep8-naming
+  - pkg-config
   - pytest
   - pytest-cov
   - pytest-doctestplus
@@ -49,6 +50,7 @@ dependencies:
   - log4cxx
   - lmfit
   - lsstdesc.coord
+  - lua
   - matplotlib
   - minuit2
   - moto
