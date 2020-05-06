@@ -49,7 +49,7 @@ dependencies:
   - matplotlib
   - minuit2
   - moto
-  - mpich
+  - mpich =3.2.1
   - mpi4py
   - ndarray
   - numexpr
