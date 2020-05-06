@@ -31,7 +31,7 @@ dependencies:
   - bottleneck
   - cffi
   - cfitsio
-  - click
+  - click <7.1
   - cython
   - deprecated
   - eigen
@@ -46,7 +46,7 @@ dependencies:
   - log4cxx
   - lmfit
   - lsstdesc.coord
-  - matplotlib
+  - matplotlib =3.0
   - minuit2
   - moto
   - mpich =3.2.1

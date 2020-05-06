@@ -1,4 +1,4 @@
-name: pinned_20200424
+name: pinned_20200506
 channels:
   - conda-forge
   - defaults
@@ -7,7 +7,7 @@ dependencies:
   - appdirs=1.4.3=py_1
   - apr=1.6.5=h0b31af3_2
   - arrow-cpp=0.16.0=py37h5ba6457_0
-  - asn1crypto=1.3.0=py37_0
+  - asn1crypto=1.3.0=py37hc8dfbb8_1
   - asteval=0.9.16=pyh5ca1d4c_0
   - astropy=4.0.1.post1=py37h9bfed18_0
   - attrs=19.3.0=py_0
@@ -23,8 +23,8 @@ dependencies:
   - boost=1.70.0=py37hbf1eeb5_1
   - boost-cpp=1.70.0=h75728bb_2
   - boto=2.49.0=py_0
-  - boto3=1.12.46=pyh9f0ad1d_0
-  - botocore=1.15.46=pyh9f0ad1d_0
+  - boto3=1.13.4=pyh9f0ad1d_0
+  - botocore=1.16.4=pyh9f0ad1d_0
   - bottleneck=1.3.2=py37h10e2902_1
   - brotli=1.0.7=h4a8c4bd_1001
   - brotlipy=0.7.0=py37h9bfed18_1000
@@ -44,20 +44,20 @@ dependencies:
   - clangxx=9.0.1=default_hf57f61e_0
   - clangxx_osx-64=9.0.1=h05bbb7f_0
   - click=7.0=py_0
-  - cloudpickle=1.3.0=py_0
+  - cloudpickle=1.4.1=py_0
   - cmake=3.17.0=hd28f656_0
   - compiler-rt=9.0.1=h6a512c6_3
   - compiler-rt_osx-64=9.0.1=h99342c6_3
   - compilers=1.0.4=0
   - cookies=2.2.1=py_0
   - coverage=5.1=py37h9bfed18_0
-  - cryptography=2.8=py37he655712_2
+  - cryptography=2.9.2=py37he655712_0
   - curl=7.69.1=h2d98d24_0
   - cxx-compiler=1.0.4=h707564b_0
   - cycler=0.10.0=py_2
-  - cython=0.29.16=py37h570ac47_0
+  - cython=0.29.17=py37h570ac47_0
   - cytoolz=0.10.1=py37h0b31af3_0
-  - dask-core=2.14.0=py_0
+  - dask-core=2.15.0=py_0
   - decorator=4.4.2=py_0
   - deprecated=1.2.8=pyh9f0ad1d_0
   - docker-py=4.2.0=py37hc8dfbb8_0
@@ -72,7 +72,7 @@ dependencies:
   - execnet=1.7.1=py_0
   - expat=2.2.9=h4a8c4bd_2
   - fftw=3.3.8=nompi_h44ae4c8_1110
-  - fitsio=1.1.1=py37h234edc7_2
+  - fitsio=1.1.2=py37h4395149_0
   - flake8=3.7.9=py37hc8dfbb8_1
   - flake8-polyfill=1.0.2=py_0
   - flask=1.1.2=pyh9f0ad1d_0
@@ -83,7 +83,7 @@ dependencies:
   - gettext=0.19.8.1=h46ab8bc_1002
   - gflags=2.2.2=h4a8c4bd_1002
   - gfortran_impl_osx-64=7.3.0=hf4212f2_2
-  - gfortran_osx-64=7.3.0=h22b1bf0_10
+  - gfortran_osx-64=7.3.0=h22b1bf0_11
   - git=2.26.2=pl526hcc376a2_0
   - git-lfs=2.10.0=0
   - glog=0.4.0=h700f914_3
@@ -119,7 +119,7 @@ dependencies:
   - libblas=3.8.0=16_openblas
   - libcblas=3.8.0=16_openblas
   - libcurl=7.69.1=hc0b9707_0
-  - libcxx=10.0.0=1
+  - libcxx=10.0.0=h1af66ff_2
   - libedit=3.1.20170329=hcfe32e1_1001
   - libevent=2.1.10=hafa8578_0
   - libffi=3.2.1=h4a8c4bd_1007
@@ -143,24 +143,24 @@ dependencies:
   - lz4-c=1.8.3=h6de7cb9_1001
   - make=4.3=h0b31af3_0
   - markupsafe=1.1.1=py37h9bfed18_1
-  - matplotlib=3.2.1=0
-  - matplotlib-base=3.2.1=py37hddda452_0
+  - matplotlib=3.0.3=py37_1
+  - matplotlib-base=3.0.3=py37habd5b94_1
   - mccabe=0.6.1=py_1
   - minuit2=6.18.00=minuit2_standalone
   - minuit2_standalone=6.18.00=h6de7cb9_101
-  - mock=3.0.5=py37hc8dfbb8_1
+  - mock=4.0.2=py37hc8dfbb8_0
   - more-itertools=8.2.0=py_0
   - moto=1.3.14=py_0
   - mpc=1.1.0=h4160ff4_1007
   - mpfr=4.0.2=h65ac59c_1
   - mpi=1.0=mpich
-  - mpi4py=3.0.3=py37h88507a1_1
-  - mpich=3.3.2=hc856adb_0
+  - mpi4py=3.0.2=py37h8745d93_0
+  - mpich=3.2.1=hfcebdee_1014
   - ncurses=6.1=h0a44026_1002
   - ndarray=1.5.3=h99db7a9_1
   - networkx=2.4=py_1
   - numexpr=2.7.1=py37h94625e5_1
-  - numpy=1.18.1=py37h7687784_1
+  - numpy=1.18.4=py37h7687784_0
   - olefile=0.46=py_0
   - openssl=1.1.1g=h0b31af3_0
   - packaging=20.1=py_0
@@ -170,9 +170,9 @@ dependencies:
   - pep8-naming=0.10.0=pyh9f0ad1d_0
   - perl=5.26.2=haec8ef5_1006
   - pgplot=5.2.2=h971d54c_1006
-  - pillow=7.1.1=py37hfd78ece_0
-  - pip=20.0.2=py_2
-  - pluggy=0.13.0=py37_0
+  - pillow=7.1.2=py37hfd78ece_0
+  - pip=20.1=pyh9f0ad1d_0
+  - pluggy=0.13.1=py37hc8dfbb8_1
   - pthread-stubs=0.4=h1de35cc_1001
   - py=1.8.1=py_0
   - pyarrow=0.16.0=py37hdca360a_1
@@ -187,20 +187,20 @@ dependencies:
   - pytables=3.6.1=py37h6f8395a_1
   - pytest=5.4.1=py37hc8dfbb8_0
   - pytest-cov=2.8.1=py_0
-  - pytest-doctestplus=0.4.0=py_0
+  - pytest-doctestplus=0.6.1=pyh9f0ad1d_0
   - pytest-flake8=1.0.5=pyh9f0ad1d_0
   - pytest-forked=1.1.2=py_0
   - pytest-runner=5.2=py_0
   - pytest-session2file=0.1.9=py_0
-  - pytest-xdist=1.31.0=py_0
+  - pytest-xdist=1.32.0=pyh9f0ad1d_0
   - python=3.7.6=h90870a6_5_cpython
   - python-dateutil=2.8.1=py_0
   - python-jose=3.1.0=pyh9f0ad1d_0
   - python_abi=3.7=1_cp37m
-  - pytz=2019.3=py_0
+  - pytz=2020.1=pyh9f0ad1d_0
   - pywavelets=1.1.1=py37h10e2902_1
   - pyyaml=5.3.1=py37h9bfed18_0
-  - re2=2020.04.01=h4a8c4bd_0
+  - re2=2020.05.01=h4a8c4bd_0
   - readline=8.0=hcfe32e1_0
   - requests=2.23.0=pyh8c360ce_2
   - responses=0.10.14=pyh9f0ad1d_0
@@ -247,3 +247,4 @@ dependencies:
   - pip:
     - peigen==0.0.9
     - pytest-subtests==0.3.0
+
