@@ -68,6 +68,7 @@ dependencies:
   - esutil=0.6.4=py37hb3f55d8_0
   - execnet=1.7.1=py_0
   - expat=2.2.9=he1b5a44_2
+  - fastavro=0.23.3=py37h8f50634_0
   - fftw=3.3.8=nompi_h7f3a6c3_1110
   - fitsio=1.1.2=py37h04524ed_0
   - flake8=3.7.9=py37hc8dfbb8_1
