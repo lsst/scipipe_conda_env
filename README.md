@@ -37,6 +37,7 @@ This will likely cause significant changes to the environment, and should normal
 1. Activate the environment: `source activate pinned_<date>`
 1. Check that the list of packages in the environment are as expected
 1. Export the environment, over-writing the previous `packages` file: `conda env export > conda3_packages-<ARCH>-64.yml`
+1. Update the `requirements.txt` file in the [linting repository](https://github.com/lsst/linting) to match the version numbers specified in the new conda environment.
 
 ### Adding a new package to the environment
 
@@ -47,6 +48,7 @@ This will likely cause significant changes to the environment, and should normal
 1. Activate the environment: `source activate pinned_<date>`
 1. Install the package: `conda install --no-update-deps <packagename>`
 1. Export the environment, over-writing the previous `packages` file: `conda env export > conda3_packages-<ARCH>-64.yml`
+1. Update the `requirements.txt` file in the [linting repository](https://github.com/lsst/linting) to match the version numbers specified in the new conda environment.
 
 ## Historical note
 
