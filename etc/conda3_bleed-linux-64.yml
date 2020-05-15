@@ -14,6 +14,7 @@ dependencies:
   - git-lfs
   - make
   - pep8-naming
+  - psutil
   - pytest
   - pytest-cov
   - pytest-doctestplus
