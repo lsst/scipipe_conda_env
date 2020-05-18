@@ -9,7 +9,7 @@ dependencies:
   - compilers
   - cmake
   - doxygen
-  - flake8
+  - flake8 <3.8
   - git
   - git-lfs
   - make
