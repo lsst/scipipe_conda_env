@@ -1,4 +1,4 @@
-name: pinned_2020518
+name: pinned_20200518
 channels:
   - conda-forge
   - defaults
