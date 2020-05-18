@@ -1,4 +1,4 @@
-name: pinned_20200518
+name: pinned_2020518
 channels:
   - conda-forge
   - defaults
@@ -63,13 +63,14 @@ dependencies:
   - doxygen=1.8.18=hd1b7508_0
   - ecdsa=0.13=py_0
   - eigen=3.3.7=hc9558a2_1001
+  - entrypoints=0.3=py37hc8dfbb8_1001
   - esutil=0.6.4=py37hb3f55d8_0
   - execnet=1.7.1=py_0
   - expat=2.2.9=he1b5a44_2
   - fastavro=0.23.4=py37h8f50634_0
   - fftw=3.3.8=nompi_h7f3a6c3_1110
   - fitsio=1.1.2=py37h04524ed_0
-  - flake8=3.8.1=pyh9f0ad1d_0
+  - flake8=3.7.9=py37hc8dfbb8_1
   - flake8-polyfill=1.0.2=py_0
   - flask=1.1.2=pyh9f0ad1d_0
   - fontconfig=2.13.1=he4413a7_1000
@@ -183,9 +184,9 @@ dependencies:
   - py=1.8.1=py_0
   - pyarrow=0.16.0=py37h8b68381_1
   - pybind11=2.2.4=py37hc9558a2_1001
-  - pycodestyle=2.6.0=pyh9f0ad1d_0
+  - pycodestyle=2.5.0=py_0
   - pycparser=2.20=py_0
-  - pyflakes=2.2.0=pyh9f0ad1d_0
+  - pyflakes=2.1.1=py_0
   - pyopenssl=19.1.0=py_1
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyqt=5.9.2=py37hcca6a23_4
@@ -257,4 +258,3 @@ dependencies:
   - pip:
     - peigen==0.0.9
     - pytest-subtests==0.3.0
-
