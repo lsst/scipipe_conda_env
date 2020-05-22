@@ -18,6 +18,7 @@ dependencies:
   - openjdk
   - pep8-naming
   - pkg-config
+  - psutil
   - pytest
   - pytest-cov
   - pytest-doctestplus
@@ -56,6 +57,7 @@ dependencies:
   - moto
   - mpich
   - mpi4py
+  - mysqlclient
   - ndarray
   - numexpr
   - numpy
