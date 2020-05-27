@@ -21,7 +21,7 @@ dependencies:
   - backports.tempfile=1.0=py_0
   - backports.weakref=1.0.post1=py37hc8dfbb8_1001
   - binutils-meta=1.0.4=0
-  - binutils_impl_linux-64=2.34=h53a641e_0
+  - binutils_impl_linux-64=2.34=h53a641e_2
   - binutils_linux-64=2.34=hc952b39_20
   - blosc=1.18.1=he1b5a44_0
   - boost=1.70.0=py37h9de70de_1
@@ -116,7 +116,7 @@ dependencies:
   - kiwisolver=1.2.0=py37h99015e2_0
   - krb5=1.17.1=h2fd8d38_0
   - lapack=3.6.1=ha44fe06_2
-  - ld_impl_linux-64=2.34=h53a641e_0
+  - ld_impl_linux-64=2.34=h53a641e_2
   - libapr=1.6.5=h516909a_2
   - libapriconv=1.2.2=h516909a_2
   - libaprutil=1.6.1=ha1d75be_2
