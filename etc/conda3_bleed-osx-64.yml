@@ -20,6 +20,7 @@ dependencies:
   - pytest-flake8
   - pytest-runner
   - pytest-session2file
+  - pytest-subtests
   - pytest-xdist
   - scons
   # host dependencies
@@ -73,7 +74,3 @@ dependencies:
   - ws4py
   - xpa
   # run dependencies
-  # pip dependencies
-  - pip:
-    - peigen
-    - pytest-subtests
