@@ -152,7 +152,6 @@ dependencies:
   - lmfit=1.0.0=py_0
   - log4cxx=0.10.0=h66fa5af_2
   - lsstdesc.coord=1.2.1=py37h99015e2_0
-  - lua=5.3.4=hcee41ef_1003
   - lz4-c=1.8.3=he1b5a44_1001
   - lzo=2.10=h14c3975_1000
   - m4=1.4.18=h14c3975_1001
