@@ -76,6 +76,7 @@ dependencies:
   - jemalloc=5.2.1
   - mysqlclient=1.4.6
   - nlohmann_json=3.7.3
+  - openjdk=11.0.1
   - pkg-config=0.29.2
   - protobuf=3.11.0
   - pymysql=0.9.3
