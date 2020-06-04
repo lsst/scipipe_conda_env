@@ -18,6 +18,7 @@ dependencies:
   - pytest-flake8=1.0.6
   - pytest-runner=5.2
   - pytest-session2file=0.1.9
+  - pytest-subtests==0.3.0
   - pytest-xdist=1.32.0
   - scons=3.1.2
   # host dependencies
@@ -72,7 +73,3 @@ dependencies:
   - ws4py=0.5.1
   - xpa=2.1.20
   # run dependencies
-  # pip dependencies
-  - pip:
-    - peigen==0.0.9
-    - pytest-subtests==0.3.0
