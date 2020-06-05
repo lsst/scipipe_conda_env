@@ -1,3 +1,4 @@
+# NOTE: These files are deprecated and not guaranteed to be installable.
 name: explicit_20200526
 channels:
   - conda-forge
