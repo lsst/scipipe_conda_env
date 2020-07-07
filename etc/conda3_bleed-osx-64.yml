@@ -37,6 +37,7 @@ dependencies:
   - deprecated
   - eigen
   - esutil
+  - eups
   - fastavro
   - future
   - galsim
