@@ -18,6 +18,7 @@ dependencies:
   - pytest-cov
   - pytest-doctestplus
   - pytest-flake8
+  - pytest-openfiles
   - pytest-runner
   - pytest-session2file
   - pytest-subtests
@@ -27,12 +28,14 @@ dependencies:
   - apr
   - autograd
   - astropy
+  - backoff
   - boost =1.70
   - boto3
   - bottleneck
   - cffi
   - cfitsio
   - click <7.1
+  - conda
   - cython
   - deprecated
   - eigen
