@@ -24,7 +24,7 @@ dependencies:
   - pytest-subtests
   - pytest-xdist
   - scons
-  - setuptools <49
+  - setuptools =46.4
   # host dependencies
   - apr
   - autograd
