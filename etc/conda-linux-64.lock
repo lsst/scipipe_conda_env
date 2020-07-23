@@ -101,13 +101,13 @@ https://conda.anaconda.org/conda-forge/linux-64/lcms2-2.11-hbd6801e_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.71.1-hcdd3856_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/log4cxx-0.10.0-h66fa5af_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pgplot-5.2.2-hac706ba_1006.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/python-3.7.6-cpython_h8356626_6.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python-3.7.8-h6f2ec95_0_cpython.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/apipkg-1.5-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/appdirs-1.4.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/attrs-19.3.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/backports-1.0-py_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/boto-2.49.0-py_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/cfitsio-3.470-h3eac812_5.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/cfitsio-3.470-hce51eda_6.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/click-7.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/cloudpickle-1.5.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/cmake-3.17.0-h28c56e5_0.tar.bz2
@@ -201,7 +201,7 @@ https://conda.anaconda.org/conda-forge/linux-64/lsstdesc.coord-1.2.1-py37h99015e
 https://conda.anaconda.org/conda-forge/linux-64/pandas-1.0.5-py37h0da4684_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pywavelets-1.1.1-py37h03ebfcd_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/scipy-1.5.1-py37ha3d9a3c_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-49.2.0-py37hc8dfbb8_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-48.0.0-py37hc8dfbb8_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/uncertainties-3.1.4-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/asteval-0.9.16-pyh5ca1d4c_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/autograd-1.3-py_0.tar.bz2
