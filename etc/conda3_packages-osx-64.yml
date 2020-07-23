@@ -199,7 +199,7 @@ dependencies:
   - pytables=3.6.1=py37he7827f7_2
   - pytest=5.4.3=py37hc8dfbb8_0
   - pytest-cov=2.10.0=pyh9f0ad1d_0
-  - pytest-doctestplus=0.7.0=py_1
+  - pytest-doctestplus=0.6.1=pyh9f0ad1d_0
   - pytest-flake8=1.0.6=pyh9f0ad1d_0
   - pytest-forked=1.2.0=pyh9f0ad1d_0
   - pytest-openfiles=0.5.0=py_0
