@@ -15,7 +15,7 @@ dependencies:
   - make
   - pep8-naming
   - psutil
-  - pytest
+  - pytest <6
   - pytest-cov
   - pytest-doctestplus !=0.7.0
   - pytest-flake8
@@ -41,7 +41,7 @@ dependencies:
   - deprecated
   - eigen
   - esutil
-  - fastavro
+  - fastavro <0.24
   - future
   - galsim
   - gsl
