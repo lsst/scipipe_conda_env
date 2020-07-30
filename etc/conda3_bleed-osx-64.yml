@@ -60,7 +60,9 @@ dependencies:
   - numexpr
   - numpy
   - pandas
+  - pgcli
   - pip
+  - psycopg2
   - pyarrow
   - pybind11 <2.3
   - pytables
@@ -70,6 +72,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
+  - seaborn
   - starlink-ast
   - sqlalchemy
   - treecorr <4
