@@ -50,13 +50,13 @@ https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-hb1e8313_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1g-haf1e3a3_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.44-h4a8c4bd_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/re2-2020.04.01-h4a8c4bd_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/snappy-1.1.8-h4a8c4bd_3.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/snappy-1.1.8-hb1e8313_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tapi-1000.10.8-ha1b3eb9_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-hbbe82c9_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xpa-2.1.20-h4a8c4bd_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/freetype-2.10.2-h8da9a1a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gettext-0.19.8.1-h46ab8bc_1002.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/glog-0.4.0-h700f914_3.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/glog-0.4.0-hb7f4fc5_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/grpc-cpp-1.25.0-h00d9e76_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/isl-0.22.1-h65ac59c_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ld64_osx-64-530-h3c32e8a_7.tar.bz2
@@ -179,7 +179,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pillow-7.2.0-py37hfd78ece_1.tar.bz
 https://conda.anaconda.org/conda-forge/osx-64/psutil-5.7.2-py37h60d8a13_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/psycopg2-2.8.6-py37h94e4008_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pycosat-0.6.3-py37h9bfed18_1004.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/pyrsistent-0.16.0-py37h9bfed18_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pyrsistent-0.17.2-py37h60d8a13_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pysocks-1.7.1-py37hc8dfbb8_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.8.1-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pyyaml-5.3.1-py37h9bfed18_0.tar.bz2
@@ -283,3 +283,4 @@ https://conda.anaconda.org/conda-forge/noarch/pytest-xdist-1.34.0-pyh9f0ad1d_0.t
 https://conda.anaconda.org/conda-forge/noarch/aws-sam-translator-1.26.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cfn-lint-0.24.4-py37_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/moto-1.3.14-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/rubinenv-0.1.0-0.tar.bz2
