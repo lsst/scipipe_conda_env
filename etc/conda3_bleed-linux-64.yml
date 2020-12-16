@@ -37,6 +37,7 @@ dependencies:
   - sqlalchemy
   # run dependencies
   # qserv dependencies
+  - flask
   - flex
   - glib
   - jemalloc
