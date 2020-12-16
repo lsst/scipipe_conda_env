@@ -83,6 +83,6 @@ dependencies:
   - nlohmann_json
   - openjdk
   - pkg-config
-  - protobuf
+  - protobuf =3.14
   - pymysql
 
