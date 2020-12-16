@@ -39,6 +39,7 @@ dependencies:
   # qserv dependencies
   - flex
   - jemalloc
+  - libevent
   - mysqlclient
   - nlohmann_json
   - openjdk
