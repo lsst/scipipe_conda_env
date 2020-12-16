@@ -22,7 +22,7 @@ dependencies:
   - pytest-runner
   - pytest-session2file
   - pytest-subtests
-  - pytest-xdist
+  - pytest-xdist <2
   - scons
   # host dependencies
   - apr
@@ -61,7 +61,6 @@ dependencies:
   - pip
   - pyarrow
   - pybind11 <2.3
-  - pyqt <5.12 # For matplotlib on linux. See https://github.com/conda-forge/pyqt-feedstock/issues/77
   - pytables
   - python
   - pyyaml
@@ -71,7 +70,7 @@ dependencies:
   - scipy
   - starlink-ast
   - sqlalchemy
-  - treecorr <4
+  - treecorr
   - wcslib
   - ws4py
   - xpa

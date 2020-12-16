@@ -273,7 +273,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pytables-3.6.1-py36hd57f836_3.ta
 https://conda.anaconda.org/conda-forge/linux-64/pytest-6.2.1-py36h5fab9bb_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/scikit-image-0.17.2-py36h284efc9_4.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/scikit-learn-0.23.2-py36hb6e6923_3.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/treecorr-3.3.11-py36hf484d3e_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/treecorr-4.1.5-py36h201607c_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.11-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/botocore-1.19.37-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/matplotlib-3.0.3-py36_1.tar.bz2
@@ -289,7 +289,7 @@ https://conda.anaconda.org/conda-forge/noarch/requests-2.25.0-pyhd3deb0d_0.tar.b
 https://conda.anaconda.org/conda-forge/noarch/aws-xray-sdk-0.95-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/docker-py-4.4.0-py36h5fab9bb_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/healpy-1.14.0-py36h48771b9_2.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/pytest-xdist-2.2.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pytest-xdist-1.34.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/responses-0.12.1-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/s3transfer-0.3.3-py_3.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/boto3-1.16.37-pyhd8ed1ab_0.tar.bz2
