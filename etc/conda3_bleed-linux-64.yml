@@ -15,65 +15,26 @@ dependencies:
   - make
   - pep8-naming
   - psutil
-  - pytest
+  - pytest <6
   - pytest-cov
   - pytest-doctestplus
   - pytest-flake8
   - pytest-runner
   - pytest-session2file
   - pytest-subtests
-  - pytest-xdist <2
+  - pytest-xdist
   - scons
   # host dependencies
-  - apr
-  - autograd
-  - astropy
   - boost =1.70
-  - boto3
-  - bottleneck
-  - cffi
-  - cfitsio
-  - click <7.1
-  - cython
   - deprecated
-  - eigen
-  - esutil
-  - fastavro
   - future
-  - galsim
-  - gsl
-  - h5py
-  - healpy
-  - libaprutil
-  - lapack
   - log4cxx
-  - lmfit
-  - lsstdesc.coord
-  - matplotlib =3.0
-  - minuit2
-  - moto
-  - mpich =3.2.1
-  - mpi4py
-  - ndarray
-  - numexpr
-  - numpy
-  - pandas
   - pip
-  - pyarrow
-  - pybind11 <2.3
-  - pytables
-  - python
+  - pybind11
+  - python >=3.7
   - pyyaml
   - requests
-  - scikit-image
-  - scikit-learn
-  - scipy
-  - starlink-ast
   - sqlalchemy
-  - treecorr
-  - wcslib
-  - ws4py
-  - xpa
   # run dependencies
   # qserv dependencies
   - flex
