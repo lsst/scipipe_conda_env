@@ -38,6 +38,7 @@ dependencies:
   # run dependencies
   # qserv dependencies
   - flex
+  - glib
   - jemalloc
   - libevent
   - mysqlclient
