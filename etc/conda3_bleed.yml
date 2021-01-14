@@ -1,0 +1,15 @@
+# This env file should be kept in sync with conda3_bleed-osx-64.txt
+# future + pyyaml are lsst-build deps. See DM-15025
+name: sims
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # base dependencies
+  - rubin-env
+  # added dependencies
+  - ephem
+  - freetds
+  - palpy
+  - pymssql
+  - sncosmo
