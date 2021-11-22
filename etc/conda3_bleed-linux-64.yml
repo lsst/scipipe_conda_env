@@ -7,9 +7,9 @@ channels:
 dependencies:
   # build dependencies
   - compilers
-  - cmake <3.20
+  - cmake
   - doxygen
-  - flake8 =3.8.4
+  - flake8
   - git
   - git-lfs
   - jq
@@ -26,8 +26,8 @@ dependencies:
   - pytest-xdist
   - scons
   # host dependencies
-  - boost =1.70
-  - click <8
+  - boost <=1.74
+  - click
   - deprecated
   - future
   - healpy
@@ -49,6 +49,6 @@ dependencies:
   - nlohmann_json
   - openjdk
   - pkg-config
-  - protobuf =3.14
+  - protobuf
   - pymysql
 
