@@ -30,6 +30,7 @@ dependencies:
   - click <8
   - deprecated
   - future
+  - healpy
   - log4cxx =0
   - pip
   - pybind11
