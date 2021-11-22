@@ -7,9 +7,9 @@ channels:
 dependencies:
   # build dependencies
   - compilers
-  - cmake
+  - cmake <3.20
   - doxygen
-  - flake8
+  - flake8 =3.8.4
   - git
   - git-lfs
   - jq
